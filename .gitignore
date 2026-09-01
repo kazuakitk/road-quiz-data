@@ -9,3 +9,7 @@ logs/
 *.part
 __pycache__/
 .DS_Store
+
+# ルート案内を作るための中間データ。大きいので公開しない
+/data/towns.json
+/data/crossings.json
